@@ -2,6 +2,7 @@
   "expo": {
     "name": "poc-mobile-deeplinking",
     "slug": "poc-mobile-deeplinking",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "schema": "poc-mobile-deeplinking"
   }
 }
